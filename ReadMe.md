@@ -15,12 +15,14 @@ It powers modern applications with encrypted, token-aware data access — secure
 - ✅ Decentralized storage access via Walrus
 - ✅ Confidentiality-first infrastructure engine
 - ✅ Secure SDKs & APIs for fast developer integration
-- ✅ Simple API key-based auth or token delegation 
+- ✅ Simple API key-based auth or token delegation
 
 ---
 
 ## 🧱 Built on Walrus
+
 Mothrbox is an engine that sits on top of Walrus, a decentralized storage pool, and provides:
+
 - 🧰 Developer tooling to read/write to Walrus effortlessly
 - 🛡 Security infrastructure to encrypt and control access to sensitive data
 - 🧾 NFT-powered token system to control data sharing, access, or transfer
@@ -63,6 +65,7 @@ You choose. We handle the hard parts.
 ---
 
 ## 🧬 Token Experience
+
 Mothrbox supports a decentralized, NFT-powered access model:
 
 - 🎟 Mint access tokens as NFTs — each token grants permission to use the Mothrbox service (e.g., API access, storage rights)
@@ -75,6 +78,7 @@ Mothrbox supports a decentralized, NFT-powered access model:
 ---
 
 ## 🛠 Coming Soon
+
 We're actively expanding Mothrbox’s capabilities. Here's what’s next:
 
 - 🐳 Docker Support – Run Mothrbox locally or at the edge with a simple Docker container
@@ -82,8 +86,6 @@ We're actively expanding Mothrbox’s capabilities. Here's what’s next:
 - 🧰 CLI Tooling – Fast local encryption, upload, and token interaction from your terminal
 - 🛎 Webhook & Event System – Get real-time triggers for access, uploads, or token events
 - 🧩 Plugin SDK – Extend or embed Mothrbox into your own infrastructure
-
-
 
 ---
 
@@ -96,8 +98,6 @@ We're actively expanding Mothrbox’s capabilities. Here's what’s next:
 > ⚡ No need to manage keys or encryption — Mothrbox handles it for you securely.
 
 ---
-
-
 
 ## 💬 TL;DR
 
