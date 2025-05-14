@@ -1,3 +1,6 @@
 [submodule "mothrbox-k8s-core"]
 	path = mothrbox-k8s-core
 	url = https://github.com/georgegoldman/mothrbox-k8s-core.git
+[submodule "mothrbox-cli-core"]
+	path = mothrbox-cli-core
+	url = https://github.com/georgegoldman/mothrbox-cli-core.git
