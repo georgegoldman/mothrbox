@@ -1,0 +1,3 @@
+[submodule "mothrbox-service-core"]
+	path = mothrbox-service-core
+	url = git@github.com-georgegoldman:georgegoldman/mothrbox-service-core.git
