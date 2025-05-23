@@ -16,3 +16,6 @@
 [submodule "mothrbox-backend"]
 	path = mothrbox-backend
 	url = https://github.com/georgegoldman/mothrbox-backend.git
+[submodule "mothrbox_service_core"]
+	path = mothrbox_service_core
+	url = https://github.com/georgegoldman/mothrbox_service_core.git
