@@ -10,3 +10,9 @@
 [submodule "mothrbox_contract"]
 	path = mothrbox_contract
 	url = https://github.com/georgegoldman/mothrbox_contract.git
+[submodule "mothrbox-frontend"]
+	path = mothrbox-frontend
+	url = https://github.com/georgegoldman/mothrbox-frontend.git
+[submodule "mothrbox-backend"]
+	path = mothrbox-backend
+	url = https://github.com/georgegoldman/mothrbox-backend.git

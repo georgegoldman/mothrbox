@@ -1,0 +1,26 @@
+version: '3.9'
+
+services:
+  sui-cli:
+    build:
+      context: ./mothrbox-cli-core
+      dockerfile: Dockerfile.sui
+    container_name: sui-cli
+    volumes:
+      - sui-data:/root/.sui
+    restart: unless-stopped
+
+  walrus-cli:
+    build:
+      context: ./mothrbox-cli-core
+      dockerfile: Dockerfile.walrus
+    container_name: walrus-cli
+    volumes:
+      - walrus-config:/root/.config/walrus
+    restart: unless-stopped
+    depends_on:
+      - sui-cli
+
+volumes:
+  sui-data:
+  walrus-config:
