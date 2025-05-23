@@ -4,3 +4,9 @@
 [submodule "mothrbox-cli-core"]
 	path = mothrbox-cli-core
 	url = https://github.com/georgegoldman/mothrbox-cli-core.git
+[submodule "mothrbox-service-core"]
+	path = mothrbox_service_core
+	url = https://github.com/georgegoldman/mothrbox_service_core.git
+[submodule "mothrbox_contract"]
+	path = mothrbox_contract
+	url = https://github.com/georgegoldman/mothrbox_contract.git
